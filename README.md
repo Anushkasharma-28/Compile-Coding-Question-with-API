@@ -1,0 +1,2 @@
+# Compile-Coding-Question-with-API
+Build a basic app to compile coding question using API's with the help of AJAX. Create a text editor to write code, a output console to show output of code and an option to select programming languages. There is a button to compile the code, when you click on that button a POST request with code &amp; language ID send to server. Then need to send a get request with code Id to fetch the result.
